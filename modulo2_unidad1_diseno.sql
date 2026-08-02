@@ -1,7 +1,3 @@
-CREATE DATABASE modulo2_unidad1_disenosql;
-
-USE modulo2_unidad1_disenosql;
-
 CREATE TABLE Clientes (
 id_cliente INT PRIMARY KEY ,
 -- SE USA INT PORQUE LA CLAVE PRIMARIA DEBE SER UN NUMERO ENTERO
